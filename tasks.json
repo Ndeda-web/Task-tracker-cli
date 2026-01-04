@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "description": "Buy milk",
+        "status": "done",
+        "createdAt": "2026-01-04T20:16:02.927Z",
+        "updatedAt": "2026-01-04T21:01:13.786Z"
+    },
+    {
+        "id": 3,
+        "description": "Finish homework",
+        "status": "todo",
+        "createdAt": "2026-01-04T20:44:24.399Z",
+        "updatedAt": "2026-01-04T20:44:24.400Z"
+    },
+    {
+        "id": 4,
+        "description": "Finish homework",
+        "status": "todo",
+        "createdAt": "2026-01-04T20:44:24.412Z",
+        "updatedAt": "2026-01-04T20:44:24.412Z"
+    },
+    {
+        "id": 5,
+        "description": "1 Buy milk",
+        "status": "in-progress",
+        "createdAt": "2026-01-04T20:47:24.444Z",
+        "updatedAt": "2026-01-04T21:01:47.927Z"
+    }
+]
